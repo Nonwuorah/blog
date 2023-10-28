@@ -1,0 +1,48 @@
+{
+  "blogs": [
+    {
+      "title": "Perspective",
+      "date": "2023-10-19T00:00:00.000Z",
+      "body": "Hi guys, \nMy name is Okey, been a software engineer for about 6 years. It’s been great, it’s been frustrating,  it’s been awesome, it’s been annoying and it’s been rewarding … lol. I’m happy to see y’all taking this step to your new careers. This message might be a bit long. A couple of things to note though…as you start out you need to very important things..\n- building good connections\n- learning your fundamental concepts.\n\nEvery industry has nepotism but I’ll say the tech industry probably has the least. I’ve worked in some great places and I really no sabi anybody at all…unlike some other industries, the company needs your specific skills to get specific results so you need to make sure you have that on lock. Spend time studying and understanding concepts…it’s not about craming and just passing. With the amount of engineers coming in you need to truly understand your stuff to get ahead. You might need to study something multiple times before it sticks and that’s okay…it might take you 5 times and that’s fine…it’s not a measure of how clever you are…these things are not things you have known before so it’ll definitely seem very strange at first but be patient with yourself..:take breaks , rest and go back and try again. Whenever you feel overwhelmed, frustrated you should take a break and just breathe.\nIt’ll help to also have a reason for getting into this and it could be anything but it should be strong to you. It could be cause you love tech, cause you want to be financially stable and liberate yourself and your loved ones, cause you want better job security (this one is well 50-50 these days lol), cause you want to travel the world and this industry might let you do that, cause you have a product you always wanted to build… anything but it should be solid and strong to you. On the days you feel down and you are crying and want to give up, remind yourself of why you started in the first place (allow yourself to cry if you have to sha…heard it’s therapeutic).  One thing though is to not get so focused on money..there’s money in the industry yes, you’ve established that…now focus solely on getting yourself equipped to access it. \n\n\nMaking connections is also important , amongst yourselves, your peer at altschool etc. There would be some opportunities you won’t be privy to and it’s someone from your network that’ll introduce you and get your foot in the door. \nAlso practice repeatedly, that’s the only way to make the concepts stick.\n\nThe story don too long sha…enjoy yourself, have fun, study well, practice repeatedly and feel free to embarrass Ufoma with a million messages 😂 (na play oo). 🎉",
+      "author": "Okey",
+      "id": 8
+    },
+    {
+      "title": "Happy Mashujaa Day",
+      "date": "2023-10-20T00:00:00.000Z",
+      "body": "Hope you are all well.\nI know that this is still exam week for you but I would still want us to try and connect  with each other (I am noticing a drift in here and I would like us to remember how we started and how connected we all were)\nToday is Friday and a public holiday in Kenya :partying_face: For this reason, I would like us to do something;\nFirst, let me teach you a little bit about our history by explaining briefly what the holiday is about. 20th October is referred to as \"Mashujaa Day\" in Kenya.\nMashujaa is the swahili word for 'Heroes'. So, Mashujaa day is a national holiday in Kenya which is observed as a public holiday to collectively honour all those who contributed towards the struggle for Kenya's independence or those who positively contributed in the post independence in Kenya. This means that on this day, we celebrate the resilience of our heroes, who in the midst of challenges, paved the path to our freedom.\nSome of our heroes include our first president, the late Jomo Kenyatta, Dedan Kimathi, Tom Mboya.. to mention but a few. If you are keen on learning about different cultures, you can read more about these heroes.\nNow, why am I sharing this with you? First, so that we can wish the Kenyans amongst us a Happy Mashujaa Day :flag-ke:.\nSecondly, I know that we all have heroes- people that have either done something iconic or  inspire you in one way through their acts or basically someone that you really look up to as your hero. The person could be here in this community, they may have helped you in one way or another or the person could be an external person. I have shared some of our heroes as a Kenyan. I would like you to now share under this thread and tell us who your heroes are. You can choose to just focus on the people we have here or whoever comes to mind and you can possibly share why that person is your hero.\nOkay, let's go ... Actually, I just remembered one of our heroes and legend- Eliud Kipchoge , I guess many people know him, the \"No human is Limited\" Kenyan-long distance runner who achieved a world record in 2022 for running the marathon within a time of 2:01:09.\nEnough of Kenyan history, let us learn about our heroes today, shall we? I hope we will all try to participate in this - who knows, we may have the same heroes.\nOnce again, Happy Mashujaa to the Kenyans amongst us",
+      "author": "Nedu",
+      "id": 11
+    },
+    {
+      "title": "Exams",
+      "body": "Moving into the Final phase of putting it all together",
+      "author": "Nedu",
+      "id": 12
+    },
+    {
+      "title": "Scheduling: setTimeout and setInterval",
+      "body": "We may decide to execute a function not right now, but at a specific time later. That’s called “scheduling a call”.\n\nThere are two methods for it:\n\nsetTimeout allows us to run a function once after the interval of time.\nsetInterval allows us to run a function repeatedly, starting after the interval of time, then repeating continuously at that interval.\nThese methods are not a part of JavaScript specification. But most environments have the internal scheduler and provide these methods. In particular, they are supported in all browsers and Node.js.\n\nFollow the Link to learn more https://javascript.info/settimeout-setinterval",
+      "author": "Ikenna",
+      "id": 14
+    },
+    {
+      "title": "Developer Experience with Command Line Interface(CLI) Tools",
+      "body": "I think my job is about writing code, but that’s not true. My job is actually typing and making each keystroke count. Trying to save keystrokes every time by using keyboard shortcuts or tools that make the work faster and better is a niche I find very and worthwhile researching about.\n\nMy aim with this article is to help you save keystrokes by adopting better tooling and also improving your productivity and developer experience with some command-line interface CLI tools. All because I care to help the developer save more time by automating some repetitive tasks in their everyday tasks.\n\nEmbracing the new wave of CLI tools will give you great improvement in the amount of time you spend clicking around to make things happen.\n\nPrerequisites\nThings you need to know to understand this article includes:\n\nFamiliarity with terminals from the Powershell, CMD and gitbash for windows operating system to Bash, FISH, zsh, iterm on Mac and Linux respectively.\nAccess to CLI environments.\nScope\nI will show you how I use CLI tools to improve my developer experience (DX) when creating a new GitHub repository, to uploading images to Cloudinary, to reducing the size of image files with tinify API, to doing all my netlify related tasks.\n\nAt the end of this post you will be able:\n\nto save more time by automating repeated tasks.\nmaking life easy for you by avoiding long and boring styles of handling repetitive tasks.\nbring more joy to your workflow as you do those repetitive tasks you go through every now and then.\n",
+      "author": "Oluwasetemi",
+      "id": 15
+    },
+    {
+      "title": "hi",
+      "body": "hello",
+      "author": "Nedu",
+      "id": 16
+    },
+    {
+      "title": "hi",
+      "body": "Hello AltSchoolers",
+      "author": "Nedu",
+      "id": 17
+    }
+  ]
+}
