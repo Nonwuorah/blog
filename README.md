@@ -1,5 +1,26 @@
 # Getting Started with Create React App
 
+App.js: The control center of your React app, where you set up and manage everything.
+
+public: A storage room for publicly accessible assets like HTML templates, images, and stylesheets.
+
+src: The core of your React app.
+
+index.js: The entry point connecting your app to the DOM.
+
+App.js: The main component defining the overall layout and routing.
+
+components: Reusable building blocks for your UI, like buttons and cards.
+
+containers: Main views or pages of your app, such as Home or Profile.
+
+hooks: Custom tools for handling common functionality, like API requests or local state management.
+
+styles: Definitions for CSS or SCSS to style your components.
+
+node_modules: Your toolbox filled with automatically installed dependencies for building your app.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
